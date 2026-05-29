@@ -19,5 +19,4 @@ directly.
 
 - Live product: https://salgssystem.no
 - LinkedIn: https://linkedin.com/in/sire
-- Demo walkthrough: <!-- TODO: paste a Loom/video link, or remove this line -->
 - Contact: sire@salgssystem.no
